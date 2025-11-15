@@ -53,14 +53,17 @@ For each detected object, Gemini attempts to estimate a realistic price in USD b
 
 ---
 
-
 ## Run Locally
 
 **Prerequisites:**  Node.js
-
 
 1. Install dependencies:
    `npm install`
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+---
+
+<a href="https://buymeacoffee.com/mayurksuthar" target="_blank">
+  <img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" />
+</a>
