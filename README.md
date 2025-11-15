@@ -7,7 +7,7 @@ This project is an AI-powered video analysis tool that detects **specific object
 - ✔ Bounding box position  
 - ✔ Estimated USD price (AI-generated)  
 
-Built using **Google Gemini API (1.5 Flash / 1.5 Pro)** for high-accuracy video understanding.
+Built using **Google Gemini API (2.5 Flash / 2.5 Pro)** for high-accuracy video understanding.
 
 ---
 
