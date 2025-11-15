@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic Video Object Identifier",
+  "description": "Upload a video and provide a list of objects to identify. Gemini's advanced video understanding will find and highlight them for you.",
+  "requestFramePermissions": []
+}
